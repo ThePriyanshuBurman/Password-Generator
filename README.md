@@ -1,5 +1,17 @@
-# Password-Generator
+# Random Password Generator
 
-A password generator created with HTML, CSS, and JavaScript is a web tool that lets users create strong passwords. It offers options for password length and character types (uppercase, lowercase, numbers, symbols). When users click "Generate," JavaScript creates a random password according to their preferences, which they can copy and use. It helps enhance online security by generating difficult-to-guess passwords.
+A simple web-based random password generator built with HTML, CSS, and JavaScript.
 
-live preview: https://password-generator-6a749.web.app/
+
+## Demo
+
+You can try out the live demo of the password generator [here](https://password-generator-6a749.web.app/).
+
+## Features
+
+- Generate random passwords of varying lengths.
+- Customize password complexity (include uppercase, lowercase, numbers, symbols, Exclude Duplicate and Include Spaces).
+- Copy generated passwords to your clipboard with a single click.
+- Responsive design for various screen sizes.
+
+Feel free to explore the demo and generate your password!  
