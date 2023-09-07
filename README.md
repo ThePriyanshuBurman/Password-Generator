@@ -10,7 +10,7 @@ You can try out the live demo of the password generator [here](https://password-
 ## Features
 
 - Generate random passwords of varying lengths.
-- Customize password complexity (include uppercase, lowercase, numbers, symbols, Exclude Duplicate and Include Spaces).
+- Customize password complexity (include uppercase, lowercase, numbers, symbols, Spaces and Exclude Duplicate).
 - Copy generated passwords to your clipboard with a single click.
 - Responsive design for various screen sizes.
 
